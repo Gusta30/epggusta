@@ -1,0 +1,392 @@
+   <channel update="i" site="meuguia.tv" site_id="canal/TC2" xmltv_id="TC ACTION SD">TC ACTION SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TC2" xmltv_id="TC ACTION HD">TC ACTION HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TC2" xmltv_id="TC ACTION FULLHD">TC ACTION FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TC5" xmltv_id="TC CULT SD">TC CULT SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TC5" xmltv_id="TC CULT HD">TC CULT HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TC5" xmltv_id="TC CULT FULLHD">TC CULT FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TC6" xmltv_id="TC FUN SD">TC FUN SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TC6" xmltv_id="TC FUN HD">TC FUN HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TC6" xmltv_id="TC FUN FULLHD">TC FUN FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TC4" xmltv_id="TC PIPOCA SD">TC PIPOCA SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TC4" xmltv_id="TC PIPOCA HD">TC PIPOCA HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TC4" xmltv_id="TC PIPOCA FULLHDD">TC PIPOCA FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TC1" xmltv_id="TC PREMIUM SD">TC PREMIUM SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TC1" xmltv_id="TC PREMIUM HD">TC PREMIUM HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TC1" xmltv_id="TC PREMIUM FULLHD">TC PREMIUM FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TC3" xmltv_id="TC TOUCH SD">TC TOUCH SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TC3" xmltv_id="TC TOUCH HD">TC TOUCH HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TC3" xmltv_id="TC TOUCH FULLHD">TC TOUCH FULLHD</channel>
+   <channel update="i" site="lineup.net.br" site_id="807711" xmltv_id="BAND SD">BAND SD</channel>
+   <channel update="i" site="lineup.net.br" site_id="807711" xmltv_id="BAND HD">BAND HD</channel>
+   <channel update="i" site="lineup.net.br" site_id="807711" xmltv_id="BAND FULLHD">BAND FULLHD</channel>
+   <channel update="i" site="lineup.net.br" site_id="683243" xmltv_id="CANAL BRASIL SD">CANAL BRASIL SD</channel>
+   <channel update="i" site="lineup.net.br" site_id="683243" xmltv_id="CANAL BRASIL HD">CANAL BRASIL HD</channel>
+   <channel update="i" site="lineup.net.br" site_id="683243" xmltv_id="CANAL BRASIL FULLHD">CANAL BRASIL FULLHD</channel>
+   <channel update="i" site="lineup.net.br" site_id="117143" xmltv_id="Canal do Boi">CANAL DO BOI SD</channel>
+   <channel update="i" site="lineup.net.br" site_id="760178" xmltv_id="RECORD HD">RECORD HD</channel>
+   <channel update="i" site="lineup.net.br" site_id="760178" xmltv_id="RECORD HD*">RECORD HD*</channel>
+   <channel update="i" site="lineup.net.br" site_id="760178" xmltv_id="RECORD FULLHD">RECORD FULLHD</channel>
+   <channel update="i" site="lineup.net.br" site_id="560654" xmltv_id="RECORD BELEM*">RECORD BELEM*</channel>
+   <channel update="i" site="lineup.net.br" site_id="990797" xmltv_id="RECORD BRASILIA HD*">RECORD BRASILIA HD*</channel>
+   <channel update="i" site="lineup.net.br" site_id="652798" xmltv_id="RECORD GOIAS">RECORD GOIAS</channel>
+   <channel update="i" site="lineup.net.br" site_id="511526" xmltv_id="RECORD MINAS*">RECORD MINAS*</channel>
+   <channel update="i" site="lineup.net.br" site_id="511526" xmltv_id="RECORD MINAS HD*">RECORD MINAS HD*</channel>
+   <channel update="i" site="lineup.net.br" site_id="418050" xmltv_id="RECORD RJ HD*">RECORD RJ HD*</channel>
+   <channel update="i" site="lineup.net.br" site_id="305549" xmltv_id="RECORD RS HD*">RECORD RS HD*</channel>
+   <channel update="i" site="lineup.net.br" site_id="305549" xmltv_id="RECORD RS*">RECORD RS*</channel>
+   <channel update="i" site="lineup.net.br" site_id="760178" xmltv_id="RECORD*">RECORD*</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/SRD" xmltv_id="REDE SUPER FULLHD">REDE SUPER FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/RTV" xmltv_id="REDE TV SD">REDE TV SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/RTV" xmltv_id="REDE TV HD">REDE TV HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/RTV" xmltv_id="REDE TV FULLHD">REDE TV FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/SBT" xmltv_id="SBT SD">SBT SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/SBT" xmltv_id="SBT HD">SBT HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/SBT" xmltv_id="SBT FULLHD">SBT FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/APL" xmltv_id="ANIMAL PLANET FULLHD">ANIMAL PLANET FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/APL" xmltv_id="ANIMAL PLANET HD">ANIMAL PLANET HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/APL" xmltv_id="ANIMAL PLANET SD">ANIMAL PLANET SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/SUP" xmltv_id="NATGEO FULLHD">NATGEO FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/SUP" xmltv_id="NATGEO HD">NATGEO HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/SUP" xmltv_id="NATGEO SD">NATGEO SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/NGH" xmltv_id="NATGEO WILD FULLHD">NATGEO WILD FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/NGH" xmltv_id="NATGEO WILD HD">NATGEO WILD HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/NGH" xmltv_id="NATGEO WILD SD">NATGEO WILD SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/HIS" xmltv_id="THE HISTORY FULLHD">THE HISTORY FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/HIS" xmltv_id="THE HISTORY HD">THE HISTORY HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/HIS" xmltv_id="THE HISTORY SD">THE HISTORY SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/CH2" xmltv_id="H2 FULLHD">H2 FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/CH2" xmltv_id="H2 HD">H2 HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/CH2" xmltv_id="H2 SD">H2 SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/MDO" xmltv_id="A&E SD">A&E SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/MDO" xmltv_id="A&E HD">A&E HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/MDO" xmltv_id="A&E FULLHD">A&E FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/MSH" xmltv_id="BIS SD">BIS SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/MSH" xmltv_id="BIS HD">BIS HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/MSH" xmltv_id="BIS FULLHD">BIS FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/CCE" xmltv_id="COMEDY CENTRAL SD">COMEDY CENTRAL SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/CCE" xmltv_id="COMEDY CENTRAL HD">COMEDY CENTRAL HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/CCE" xmltv_id="COMEDY CENTRAL FULLHD">COMEDY CENTRAL FULLHD</channel>
+   <channel update="i" site="lineup.net.br" site_id="431796" xmltv_id="CURTA! SD">CURTA! SD</channel>
+   <channel update="i" site="lineup.net.br" site_id="431796" xmltv_id="CURTA! HD">CURTA! HD</channel>
+   <channel update="i" site="lineup.net.br" site_id="431796" xmltv_id="CURTA! FULLHDD">CURTA! FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/EET" xmltv_id="E! SD">E! SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/EET" xmltv_id="E! HD">E! HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/EET" xmltv_id="E! FULLHD">E! FULLHD</channel>
+   <channel update="i" site="lineup.net.br" site_id="169477" xmltv_id="FOOD NETWORK SD">FOOD NETWORK SD</channel>
+   <channel update="i" site="lineup.net.br" site_id="169477" xmltv_id="FOOD NETWORK HD">FOOD NETWORK HD</channel>
+   <channel update="i" site="lineup.net.br" site_id="169477" xmltv_id="FOOD NETWORK FULLHD">FOOD NETWORK FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/FLI" xmltv_id="FOX LIFE SD">FOX LIFE SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/FLI" xmltv_id="FOX LIFE HD">FOX LIFE HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/FLI" xmltv_id="FOX LIFE FULLHD">FOX LIFE FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/GNT" xmltv_id="GNT SD">GNT SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/GNT" xmltv_id="GNT HD">GNT HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/GNT" xmltv_id="GNT FULLHD">GNT FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/MTV" xmltv_id="MTV SD">MTV SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/MTV" xmltv_id="MTV HD">MTV HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/MTV" xmltv_id="MTV FULLHD">MTV FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/MSW" xmltv_id="MULTISHOW SD">MULTISHOW SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/MSW" xmltv_id="MULTISHOW HD">MULTISHOW HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/MSW" xmltv_id="MULTISHOW FULLHD">MULTISHOW FULLHD</channel>
+   <channel update="i" site="lineup.net.br" site_id="752812" xmltv_id="MUSIC BOX SD">MUSIC BOX SD</channel>
+   <channel update="i" site="lineup.net.br" site_id="752812" xmltv_id="MUSIC BOX HD">MUSIC BOX HD</channel>
+   <channel update="i" site="lineup.net.br" site_id="752812" xmltv_id="MUSIC BOX FULLHD">MUSIC BOX SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/OFF" xmltv_id="OFF SD">OFF SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/OFF" xmltv_id="OFF HD">OFF HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/OFF" xmltv_id="OFF FULLHD]">OFF FULLHD</channel>
+   <channel update="i" site="lineup.net.br" site_id="610917" xmltv_id="PLAY TV SD">PLAY TV SD</channel>
+   <channel update="i" site="lineup.net.br" site_id="610917" xmltv_id="PLAY TV HD">PLAY TV HD</channel>
+   <channel update="i" site="lineup.net.br" site_id="610917" xmltv_id="PLAY TV FULLHD">PLAY TV FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/MTH" xmltv_id="VH1 MEGA HITS SD">VH1 MEGA HITS SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/MTH" xmltv_id="VH1 MEGA HITS HD">VH1 MEGA HITS HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/MTH" xmltv_id="VH1 MEGA HITS FULLHD">VH1 MEGA HITS FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/VIV" xmltv_id="VIVA SD">VIVA SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/VIV" xmltv_id="VIVA HD">VIVA HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/VIV" xmltv_id="VIVA FULLHD">VIVA FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/SHO" xmltv_id="SHOPTIME FULLHD">SHOPTIME FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/ANX" xmltv_id="LIFETIME SD">LIFETIME SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/ANX" xmltv_id="LIFETIME HD">LIFETIME HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/ANX" xmltv_id="LIFETIME FULLHD">LIFETIME FULLHD</channel>
+   <channel update="i" site="lineup.net.br" site_id="429426" xmltv_id="MAIS GLOBOSAT SD">MAIS GLOBOSAT SD</channel>
+   <channel update="i" site="lineup.net.br" site_id="429426" xmltv_id="MAIS GLOBOSAT HD">MAIS GLOBOSAT HD</channel>
+   <channel update="i" site="lineup.net.br" site_id="429426" xmltv_id="MAIS GLOBOSAT FULLHD">MAIS GLOBOSAT FULLHD</channel>
+   <channel update="i" site="lineup.net.br" site_id="946892" xmltv_id="CHEF TV SD">CHEF TV SD</channel>
+   <channel update="i" site="lineup.net.br" site_id="946892" xmltv_id="CHEF TV HD">CHEF TV HD</channel>
+   <channel update="i" site="lineup.net.br" site_id="946892" xmltv_id="CHEF TV FULLHD">CHEF TV FULLHD</channel>
+   <channel update="i" site="tv.com" site_id="69027868" xmltv_id="HGTV SD">HGTV SD</channel>
+   <channel update="i" site="tv.com" site_id="69027868" xmltv_id="HGTV HD">HGTV HD</channel>
+   <channel update="i" site="tv.com" site_id="69027868" xmltv_id="HGTV FULLHD">HGTV FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TRU" xmltv_id="TRUE TV SD">TRUE TV SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TRU" xmltv_id="TRUE TV HD">TRUE TV HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TRU" xmltv_id="TRUE TV FULLHD">TRUE TV FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/135" xmltv_id="COMBATE SD">COMBATE SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/135" xmltv_id="COMBATE HD">COMBATE HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/135" xmltv_id="COMBATE FULLHD">COMBATE FULLHD</channel>
+   <channel update="i" site="lineup.net.br" site_id="978157" xmltv_id="ESPN 2 SD">ESPN 2 SD</channel>
+   <channel update="i" site="lineup.net.br" site_id="978157" xmltv_id="ESPN 2 HD">ESPN 2 HD</channel>
+   <channel update="i" site="lineup.net.br" site_id="978157" xmltv_id="ESPN 2 FULLHD">ESPN 2 FULLHD</channel>
+   <channel update="i" site="lineup.net.br" site_id="606133" xmltv_id="ESPN BRASIL SD">ESPN BRASIL SD</channel>
+   <channel update="i" site="lineup.net.br" site_id="606133" xmltv_id="ESPN BRASIL HD">ESPN BRASIL HD</channel>
+   <channel update="i" site="lineup.net.br" site_id="606133" xmltv_id="ESPN BRASIL FULLHD">ESPN BRASIL FULLHD</channel>
+   <channel update="i" site="lineup.net.br" site_id="662208" xmltv_id="ESPN EXTRA SD">ESPN EXTRA SD</channel>
+   <channel update="i" site="lineup.net.br" site_id="662208" xmltv_id="ESPN EXTRA HD">ESPN EXTRA HD</channel>
+   <channel update="i" site="lineup.net.br" site_id="440135" xmltv_id="ESPN SD">ESPN SD</channel>
+   <channel update="i" site="lineup.net.br" site_id="440135" xmltv_id="ESPN HD">ESPN HD</channel>
+   <channel update="i" site="lineup.net.br" site_id="440135" xmltv_id="ESPN FULLHD">ESPN FULLHD</channel>
+   <channel update="i" site="lineup.net.br" site_id="350650" xmltv_id="FISH TV SD">FISH TV SD</channel>
+   <channel update="i" site="lineup.net.br" site_id="350650" xmltv_id="FISH TV HD">FISH TV HD</channel>
+   <channel update="i" site="lineup.net.br" site_id="350650" xmltv_id="FISH TV FULLHD">FISH TV FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/FSP" xmltv_id="FOX SPORTS SD">FOX SPORTS SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/FSP" xmltv_id="FOX SPORTS HD">FOX SPORTS HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/FSP" xmltv_id="FOX SPORTS FULLHD">FOX SPORTS FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/FS2" xmltv_id="FOX SPORTS 2 SD">FOX SPORTS 2 SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/FS2" xmltv_id="FOX SPORTS 2 HD">FOX SPORTS 2 HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/FS2" xmltv_id="FOX SPORTS FULLHD">FOX SPORTS 2 FULLHD</channel>
+   <channel update="i" site="lineup.net.br" site_id="757057" xmltv_id="SPORTV 2 FULLHD">SPORTV 2 FULLHD</channel>
+   <channel update="i" site="lineup.net.br" site_id="757057" xmltv_id="SPORTV 2 SD">SPORTV 2 SD</channel>
+   <channel update="i" site="lineup.net.br" site_id="757057" xmltv_id="SPORTV 2 HD">SPORTV 2 HD</channel>
+   <channel update="i" site="lineup.net.br" site_id="446591" xmltv_id="SPORTV 3 SD">SPORTV 3 SD</channel>
+   <channel update="i" site="lineup.net.br" site_id="446591" xmltv_id="SPORTV 3 HD">SPORTV 3 HD</channel>
+   <channel update="i" site="lineup.net.br" site_id="446591" xmltv_id="SPORTV 3 FULLHD">SPORTV 3 FULLHD</channel>
+   <channel update="i" site="lineup.net.br" site_id="811805" xmltv_id="SPORTV SD">SPORTV SD</channel>
+   <channel update="i" site="lineup.net.br" site_id="811805" xmltv_id="SPORTTV HD">SPORTTV HD</channel>
+   <channel update="i" site="lineup.net.br" site_id="811805" xmltv_id="SPORTTV FULLHD">SPORTTV FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/BSP" xmltv_id="BAND SPORTS SD">BAND SPORTS SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/BSP" xmltv_id="BAND SPORTS HD">BAND SPORTS HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/BSP" xmltv_id="BAND SPORTS FULLHD">BAND SPORTS FULLHD</channel>
+   <channel update="i" site="netcombo.com.br" site_id="1365" xmltv_id="PREMIERE CLUBES SD">PREMIERE CLUBES SD</channel>
+   <channel update="i" site="netcombo.com.br" site_id="1365" xmltv_id="PREMIERE CLUBES HD">PREMIERE CLUBES HD</channel>
+   <channel update="i" site="netcombo.com.br" site_id="1365" xmltv_id="PREMIERE CLUBES FULLHD">PREMIERE CLUBES FULLHDD</channel>
+   <channel update="i" site="netcombo.com.br" site_id="1360" xmltv_id="PREMIERE 2 SD">PREMIERE 2 SD</channel>
+   <channel update="i" site="netcombo.com.br" site_id="1360" xmltv_id="PREMIERE 2 HD">Premiere 2 HD</channel>
+   <channel update="i" site="netcombo.com.br" site_id="1360" xmltv_id="PREMIERE 2 FULLHD">PREMIERE 2 FULLHD</channel>
+   <channel update="i" site="netcombo.com.br" site_id="1361" xmltv_id="PREMIERE 3 SD">PREMIERE 3 SD</channel>
+   <channel update="i" site="netcombo.com.br" site_id="1361" xmltv_id="PREMIERE 3 HD">PREMIERE 3 HD</channel>
+   <channel update="i" site="netcombo.com.br" site_id="1361" xmltv_id="PREMIERE 3 FULLHD">PREMIERE 3 FULLHD</channel>
+   <channel update="i" site="netcombo.com.br" site_id="1362" xmltv_id="PREMIERE 4 SD">PREMIERE 4 SD</channel>
+   <channel update="i" site="netcombo.com.br" site_id="1362" xmltv_id="PREMIERE 4 HD">PREMIERE 4 HD</channel>
+   <channel update="i" site="netcombo.com.br" site_id="1362" xmltv_id="PREMIERE 4 FULLHD">PREMIERE 4 FULLHD</channel>
+   <channel update="i" site="netcombo.com.br" site_id="1363" xmltv_id="PREMIERE 5 SD">PREMIERE 5 SD</channel>
+   <channel update="i" site="netcombo.com.br" site_id="1363" xmltv_id="PREMIERE 5 HD">PREMIERE 5 HD</channel>
+   <channel update="i" site="netcombo.com.br" site_id="1363" xmltv_id="PREMIERE 5 FULLHD">PREMIERE 5 FULLHD</channel>
+   <channel update="i" site="netcombo.com.br" site_id="1364" xmltv_id="PREMIERE 6 SD">PREMIERE 6 SD</channel>
+   <channel update="i" site="netcombo.com.br" site_id="1364" xmltv_id="PREMIERE 6 HD">PREMIERE 6 HD</channel>
+   <channel update="i" site="netcombo.com.br" site_id="1364" xmltv_id="PREMIERE 6 FULLHD">PREMIERE 6 FULLHD</channel>
+   <channel update="i" site="netcombo.com.br" site_id="693" xmltv_id="PREMIERE 7 SD">PREMIERE 7 SD</channel>
+   <channel update="i" site="netcombo.com.br" site_id="693" xmltv_id="PREMIERE 7 HD">PREMIERE 7 HD</channel>
+   <channel update="i" site="netcombo.com.br" site_id="693" xmltv_id="PREMIERE 7 FULLLHD">PREMIERE 7 FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/DIS" xmltv_id="DISCOVERY CHANNEL SD">DISCOVERY CHANNEL SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/DIS" xmltv_id="DISCOVERY CHANNEL HD">DISCOVERY CHANNEL HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/DIS" xmltv_id="DISCOVERY CHANNEL FULLHD">DISCOVERY CHANNEL FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/HEA" xmltv_id="DISCOVERY HOME & HEALTH SD">DISCOVERY HOME & HEALTH SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/HEA" xmltv_id="DISCOVERY HOME & HEALTH HD">DISCOVERY HOME & HEALTH HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/HEA" xmltv_id="DISCOVERY HOME & HEALTH FULLHD">DISCOVERY HOME & HEALTH FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/LIV" xmltv_id="DISCOVERY ID SD">DISCOVERY ID SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/LIV" xmltv_id="DISCOVERY ID HD">DISCOVERY ID HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/LIV" xmltv_id="DISCOVERY ID FULLHD">DISCOVERY ID FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/DSC" xmltv_id="DISCOVERY SCIENCE SD">DISCOVERY SCIENCE SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/DSC" xmltv_id="DISCOVERY SCIENCE HD">DISCOVERY SCIENCE HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/DSC" xmltv_id="DISCOVERY SCIENCE FULLHD">DISCOVERY SCIENCE FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/DHD" xmltv_id="DISCOVERY THEATHER SD">DISCOVERY THEATHER SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/DHD" xmltv_id="DISCOVERY THEATHER HD">DISCOVERY THEATHER HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/DHD" xmltv_id="DISCOVERY THEATHER FULLHD">DISCOVERY THEATHER FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/DTU" xmltv_id="DISCOVERY TURBO SD">DISCOVERY TURBO SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/DTU" xmltv_id="DISCOVERY TURBO HD">DISCOVERY TURBO HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/DTU" xmltv_id="DISCOVERY TURBO FULLHD">DISCOVERY TURBO FULLHD</channel>
+   <channel update="i" site="lineup.net.br" site_id="733482" xmltv_id="DISCOVERY WORLD SD">DISCOVERY WORLD SD</channel>
+   <channel update="i" site="lineup.net.br" site_id="733482" xmltv_id="DISCOVERY WORLD HD">DISCOVERY WORLD HD</channel>
+   <channel update="i" site="lineup.net.br" site_id="733482" xmltv_id="DISCOVERY WORLD FULLHD">DISCOVERY WORLD FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TRV" xmltv_id="TLC SD">TLC SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TRV" xmltv_id="TLC HD">TLC HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TRV" xmltv_id="TLC FULLHD">TLC FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/BQ5" xmltv_id="ARTE 1 HD">ARTE 1 HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/BQ5" xmltv_id="ARTE 1 FULLHD">ARTE 1 FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/AXN" xmltv_id="AXN SD">AXN SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/AXN" xmltv_id="AXN HD">AXN HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/AXN" xmltv_id="AXN FULLHD">AXN FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/MNX" xmltv_id="CINEMAX SD">CINEMAX SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/MNX" xmltv_id="CINEMAX HD">CINEMAX HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/MNX" xmltv_id="CINEMAX FULLHD">CINEMAX FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/SET" xmltv_id="SONY SD">SONY SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/SET" xmltv_id="SONY HD">SONY HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/SET" xmltv_id="SONY FULLHD">SONY FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/SPA" xmltv_id="SPACE SD">SPACE SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/SPA" xmltv_id="SPACE HD">SPACE HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/SPA" xmltv_id="SPACE FULLHD">SPACE FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/HAL" xmltv_id="STUDIO UNIVERSAL SD">STUDIO UNIVERSAL SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/HAL" xmltv_id="STUDIO UNIVERSAL HD">STUDIO UNIVERSAL HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/HAL" xmltv_id="STUDIO UNIVERSAL FULLHD">STUDIO UNIVERSAL FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/SCI" xmltv_id="SYFY SD">SYFY SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/SCI" xmltv_id="SYFY HD">SYFY HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/SCI" xmltv_id="SYFY FULLHD">SYFY FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TBS" xmltv_id="TBS SD">TBS SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TBS" xmltv_id="TBS HD">TBS HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TBS" xmltv_id="TBS FULLHD">TBS FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TCM" xmltv_id="TCM SD">TCM SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TCM" xmltv_id="TCM HD">TCM HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TCM" xmltv_id="TCM FULLHD">TCM FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TNT" xmltv_id="TNT SD">TNT SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TNT" xmltv_id="TNT HD">TNT HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TNT" xmltv_id="TNT FULLHD">TNT FULLHD</channel>
+   <channel update="i" site="lineup.net.br" site_id="428188" xmltv_id="TNT SERIES SD">TNT SERIES SD</channel>
+   <channel update="i" site="lineup.net.br" site_id="428188" xmltv_id="TNT SERIES HD">TNT SERIES HD</channel>
+   <channel update="i" site="lineup.net.br" site_id="428188" xmltv_id="TNT SERIES FULLHD">TNT SERIES FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/USA" xmltv_id="UNIVERSAL CHANNEL SD">UNIVERSAL CHANNEL SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/USA" xmltv_id="UNIVERSAL CHANNEL HD">UNIVERSAL CHANNEL HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/USA" xmltv_id="UNIVERSAL CHANNEL FULLHD">UNIVERSAL CHANNEL FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/WBT" xmltv_id="WARNER CHANNEL SD">WARNER CHANNEL SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/WBT" xmltv_id="WARNER CHANNEL HD">WARNER CHANNEL HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/WBT" xmltv_id="WARNER CHANNEL FULLHD">WARNER CHANNEL FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/FOX" xmltv_id="FOX SD">FOX SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/FOX" xmltv_id="FOX HD">FOX HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/FOX" xmltv_id="FOX FULLHD">FOX FULLHD</channel>
+   <channel update="i" site="tvplus.com.br.E" site_id="canal-FO1" xmltv_id="FOX PREMIUM 1 SD">FOX PREMIUM 1 SD</channel>
+   <channel update="i" site="tvplus.com.br.E" site_id="canal-FO1" xmltv_id="FOX PREMIUM 1 HD">FOX PREMIUM 1 HD</channel>
+   <channel update="i" site="tvplus.com.br.E" site_id="canal-FO1" xmltv_id="FOX PREMIUM 1 FULLHD">FOX PREMIUM 1 FULLHD</channel>
+   <channel update="i" site="tvplus.com.br.E" site_id="canal-FOA" xmltv_id="FOX PREMIUM 2 SD">FOX PREMIUM 2 SD</channel>
+   <channel update="i" site="tvplus.com.br.E" site_id="canal-FOA" xmltv_id="FOX PREMIUM 2 HD">FOX Premium 2</channel>
+   <channel update="i" site="tvplus.com.br.E" site_id="canal-FOA" xmltv_id="FOX PREMIUM 2 FULLHD">FOX PREMIUM 2 FULLHD</channel>
+   <channel update="i" site="lineup.net.br" site_id="656821" xmltv_id="FX SD">FX SD</channel>
+   <channel update="i" site="lineup.net.br" site_id="656821" xmltv_id="FX HD">FX HD</channel>
+   <channel update="i" site="lineup.net.br" site_id="656821" xmltv_id="FX FULLHD">FX FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/MHD" xmltv_id="MAX UP SD">MAX UP SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/MHD" xmltv_id="MAX UP HD">MAX UP HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/MHD" xmltv_id="MAX UP FULLHD">MAX UP FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/MPX" xmltv_id="MEGAPIX SD">MEGAPIX SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/MPX" xmltv_id="MEGAPIX HD">MEGAPIX HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/MPX" xmltv_id="MEGAPIX FULLHD">MEGAPIX FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/MXE" xmltv_id="Max SD">Max SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/MXE" xmltv_id="Max HD">Max HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/MXE" xmltv_id="Max FULLHD">Max FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/MAP" xmltv_id="MAX PRIME SD">MAX PRIME SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/MAP" xmltv_id="MAX PRIME HD">MAX PRIME HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/MAP" xmltv_id="MAX PRIME FULLHD">MAX PRIME FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/PAR" xmltv_id="PARAMOUNT SD">PARAMOUNT SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/PAR" xmltv_id="PARAMOUNT CHANNEL HD">PARAMOUNT CHANNEL HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/PAR" xmltv_id="PARAMOUNT CHANNEL FULLHD">PARAMOUNT CHANNEL FULLHD</channel>
+   <channel update="i" site="lineup.net.br" site_id="871262" xmltv_id="PRIME BOX BRASIL SD">PRIME BOX BRASIL SD</channel>
+   <channel update="i" site="lineup.net.br" site_id="871262" xmltv_id="PRIME BOX BRASIL HD">PRIME BOX BRASIL HD</channel>
+   <channel update="i" site="lineup.net.br" site_id="871262" xmltv_id="PRIME BOX BRASIL FULLHD">PRIME BOX BRASIL FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/MGM" xmltv_id="AMC FHD">AMC FHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/MGM" xmltv_id="AMC HD">AMC HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/MGM" xmltv_id="AMC SD">AMC SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/HBO" xmltv_id="HBO SD">HBO SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/HBO" xmltv_id="HBO HD">HBO HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/HBO" xmltv_id="HBO FULLHD">HBO FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/HB2" xmltv_id="HBO 2 SD">HBO 2 SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/HB2" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/HB2" xmltv_id="HBO 2 FULLHD">HBO 2 FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/HFA" xmltv_id="HBO FAMILY SD">HBO FAMILY SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/HFA" xmltv_id="HBO FAMILY HD">HBO FAMILY HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/HFA" xmltv_id="HBO FAMILY FULLHD">HBO FAMILY FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/HPL" xmltv_id="HBO PLUS SD">HBO PLUS SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/HPL" xmltv_id="HBO Plus HD">HBO PLUS HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/HPL" xmltv_id="HBO PLUS FULLHD">HBO PLUS FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/HFE" xmltv_id="HBO SIGNATURE SD">HBO SIGNATURE SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/HFE" xmltv_id="HBO SIGNATURE HD">HBO SIGNATURE HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/HFE" xmltv_id="HBO SIGNATURE FULLHD">HBO SIGNATURE FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/BMG" xmltv_id="BOOMERANG SD">BOOMERANG SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/BMG" xmltv_id="BOOMERANG HD">BOOMERANG HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/BMG" xmltv_id="BOOMERANG FULLHD">BOOMERANG FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/DIK" xmltv_id="DISCOVERY KIDS SD">DISCOVERY KIDS SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/DIK" xmltv_id="DISCOVERY KIDS HD">DISCOVERY KIDS HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/DIK" xmltv_id="DISCOVERY KIDS FULLHD">DISCOVERY KIDS FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/DNY" xmltv_id="DISNEY CHANNEL SD">DISNEY CHANNEL SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/DNY" xmltv_id="DISNEY CHANNEL HD">DISNEY CHANNEL HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/DNY" xmltv_id="DISNEY CHANNEL FULLHD">DISNEY CHANNEL FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/PHD" xmltv_id="DISNEY JR SD">DISNEY JR SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/PHD" xmltv_id="DISNEY JR HD">DISNEY JR HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/PHD" xmltv_id="DISNEY JR FULLHD">DISNEY JR FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/DXD" xmltv_id="DISNEY XD SD">DISNEY XD SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/DXD" xmltv_id="DISNEY XD HD">DISNEY XD HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/DXD" xmltv_id="DISNEY XD FULLHD">DISNEY XD FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/GOB" xmltv_id="GLOOB SD">GLOOB SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/GOB" xmltv_id="GLOOB HD">GLOOB HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/GOB" xmltv_id="GLOOB FULLHD">GLOOB FULLHD</channel>
+   <channel update="i" site="lineup.net.br" site_id="870284" xmltv_id="GLOOBINHO SD">GLOOBINHO SD</channel>
+   <channel update="i" site="lineup.net.br" site_id="870284" xmltv_id="GLOOBINHO HD">GLOOBINHO HD</channel>
+   <channel update="i" site="lineup.net.br" site_id="870284" xmltv_id="GLOOBINHO FULLHD">GLOOBINHO FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/BAB" xmltv_id="BABY TV SD">BABY TV SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/BAB" xmltv_id="BABY TV HD">BABY TV HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/CAR" xmltv_id="CARTOON NETWORK SD">CARTOON NETWORK SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/CAR" xmltv_id="CARTOON NETWORK HD">CARTOON NETWORK HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/CAR" xmltv_id="CARTOON NETWORK FULLHD">CARTOON NETWORK FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/DIK" xmltv_id="NATGEO KIDS SD">NATGEO KIDS SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/DIK" xmltv_id="NATGEO KIDS HD">NATGEO KIDS HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/DIK" xmltv_id="NATGEO KIDS FULLHD">NATGEO KIDS FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/NIC" xmltv_id="NICK SD">NICK SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/NIC" xmltv_id="NICK HD">NICK HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/NIC" xmltv_id="NICK FULLHD">NICK FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/NJR" xmltv_id="NICK JR SD">NICK JR SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/NJR" xmltv_id="NICK JR HD">NICK JR HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/NJR" xmltv_id="NICK JR FULLHD">NICK JR FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TOC" xmltv_id="TOONCAST SD">TOONCAST SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TOC" xmltv_id="TOONCAST HD">TOONCAST HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/TOC" xmltv_id="TOONCAST FULLHD">TOONCAST FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/RTB" xmltv_id="TV RA TIM BUM SD">TV RA TIM BUM SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/RTB" xmltv_id="TV RA TIM BUM HD">TV RA TIM BUM HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/RTB" xmltv_id="TV RA TIM BUM FULLHD">TV RA TIM BUM FULLHD</channel>
+   <channel update="i" site="lineup.net.br" site_id="255112" xmltv_id="XX: PLAYBOY TV SD">XX: PLAYBOY TV SD</channel>
+   <channel update="i" site="lineup.net.br" site_id="255112" xmltv_id="XX: PLAYBOY HD">XX: PLAYBOY HD</channel>
+   <channel update="i" site="lineup.net.br" site_id="255112" xmltv_id="XX: PLAYBOY FULLHD">XX: PLAYBOY FULLHD</channel>
+   <channel update="i" site="lineup.net.br" site_id="313178" xmltv_id="XX: SEX PRIVE SD">XX: SEX PRIVE SD</channel>
+   <channel update="i" site="lineup.net.br" site_id="313178" xmltv_id="XX: SEX PRIVE HD">XX: SEX PRIVE DD</channel>
+   <channel update="i" site="lineup.net.br" site_id="313178" xmltv_id="XX: SEX PRIVE FULLHD">XX: SEX PRIVE FULLHD</channel>
+   <channel update="i" site="lineup.net.br" site_id="282073" xmltv_id="XX: SEXY HOT SD">XX: SEXY HOT SD</channel>
+   <channel update="i" site="lineup.net.br" site_id="282073" xmltv_id="XX: SEXY HOT HD">XX: SEXY HOT HD</channel>
+   <channel update="i" site="lineup.net.br" site_id="313178" xmltv_id="SEX PRIVE">SEX PRIVE</channel>
+   <channel update="i" site="lineup.net.br" site_id="282073" xmltv_id="SEXY HOT">SEXY HOT</channel>
+   <channel update="i" site="lineup.net.br" site_id="371715" xmltv_id="XXX - VENUS HD">XXX - VENUS HD</channel>
+   <channel update="i" site="lineup.net.br" site_id="282073" xmltv_id="SEXY HOT FHD">SEXY HOT FHD</channel>
+   <channel update="i" site="lineup.net.br" site_id="255112" xmltv_id="PLAYBOY HD">PLAYBOY HD</channel>
+   <channel update="i" site="lineup.net.br" site_id="371715" xmltv_id="VENUS FHD">VENUS FHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/GLN" xmltv_id="GLOBO NEWS SD">GLOBO NEWS SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/GLN" xmltv_id="GLOBO NEWS HD">GLOBO NEWS HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/GLN" xmltv_id="GLOBO NEWS FULLHD">GLOBO NEWS FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/NEW" xmltv_id="BAND NEWS SD">BAND NEWS SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/NEW" xmltv_id="BAND NEWS HD">BAND NEWS HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/NEW" xmltv_id="BAND NEWS FULLHD">BAND NEWS FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/CNE" xmltv_id="CNN ESPANHOL SD">CNN ESPANHOL SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/CNE" xmltv_id="CNN ESPANHOL HD">CNN ESPANHOL HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/CNE" xmltv_id="CNN ESPANHOL FULLHD">CNN ESPANHOL FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/CNN" xmltv_id="CNN INTERNACIONAL SD">CNN INTERNACIONAL SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/CNN" xmltv_id="CNN INTERNACIONAL HD">CNN INTERNACIONAL HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/CNN" xmltv_id="CNN INTERNACIONAL FULLHD">CNN INTERNACIONAL FULLHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/FNE" xmltv_id="FOX NEWS FULHD">FOX NEWS FULHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/FNE" xmltv_id="FOX NEWS HD">FOX NEWS HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/FNE" xmltv_id="FOX NEWS SD">FOX NEWS SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/RCN" xmltv_id="RECORD NEWS SD">RECORD NEWS SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/RCN" xmltv_id="RECORD NEWS HD">RECORD NEWS HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/RCN" xmltv_id="RECORD NEWS FULLHD">RECORD NEWS FULLHD</channel>
+   <channel update="i" site="tvplus.com.br.E" site_id="operadora/canal/CN8" xmltv_id="CNN BRASIL HD">CNN BRASIL HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/GHB" xmltv_id="GLOBO BRASILIA HD#">GLOBO BRASILIA HD#</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/GRC" xmltv_id="GLOBO EPTV CAMPINAS FHD">GLOBO EPTV CAMPINAS FHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/GRC" xmltv_id="GLOBO EPTV CAMPINAS HD">GLOBO EPTV CAMPINAS HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/GRC" xmltv_id="GLOBO EPTV CAMPINAS SD">GLOBO EPTV CAMPINAS SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/GRC" xmltv_id="GLOBO EPTV CAMPINAS SD#">GLOBO EPTV CAMPINAS SD#</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/GRP" xmltv_id="GLOBO EPTV RIBEIRÃO PRETO SD#">GLOBO EPTV RIBEIRÃO PRETO SD#</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/GBM" xmltv_id="GLOBO MINAS FHD">GLOBO MINAS FHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/GBM" xmltv_id="GLOBO MINAS HD">GLOBO MINAS HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/GBM" xmltv_id="GLOBO MINAS SD">GLOBO MINAS SD</channel>
+   <channel update="i" site="lineup.net.br" site_id="770492" xmltv_id="Globo Nordeste">GLOBO NORDESTE FHD</channel>
+   <channel update="i" site="lineup.net.br" site_id="770492" xmltv_id="GLOBO NORDESTE FHD">GLOBO NORDESTE FHD</channel>
+   <channel update="i" site="lineup.net.br" site_id="770492" xmltv_id="GLOBO NORDESTE HD">GLOBO NORDESTE HD</channel>
+   <channel update="i" site="lineup.net.br" site_id="770492" xmltv_id="GLOBO NORDESTE HD#">GGLOBO NORDESTE HD#</channel>
+   <channel update="i" site="lineup.net.br" site_id="770492" xmltv_id="GLOBO NORDESTE SD">GLOBO NORDESTE SD</channel>
+   <channel update="i" site="lineup.net.br" site_id="770492" xmltv_id="GLOBO NORDESTE SD#">GLOBO NORDESTE SD#</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/GRJ" xmltv_id="GLOBO RJ HD#">GLOBO RJ HD#</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/GRJ" xmltv_id="GLOBO RJ FHD">GLOBO RJ FHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/GRJ" xmltv_id="GLOBO RJ HD">GLOBO RJ HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/GRJ" xmltv_id="GLOBO RJ SD">GLOBO RJ SD</channel>
+   <channel update="i" site="lineup.net.br" site_id="511761" xmltv_id="GLOBO SP FHD">GLOBO SP FHD</channel>
+   <channel update="i" site="lineup.net.br" site_id="511761" xmltv_id="GLOBO SP HD">GLOBO SP HD</channel>
+   <channel update="i" site="lineup.net.br" site_id="511761" xmltv_id="GLOBO SP HD#">GLOBO SP HD#</channel>
+   <channel update="i" site="lineup.net.br" site_id="511761" xmltv_id="GLOBO SP SD">GLOBO SP SD</channel>
+   <channel update="i" site="lineup.net.br" site_id="511761" xmltv_id="GLOBO SP SD#2">GLOBO SP SD#2</channel>
+   <channel update="i" site="lineup.net.br" site_id="511761" xmltv_id="GLOBO SP SD#3">GLOBO SP SD#3</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/GBG" xmltv_id="GLOBO TV ANHANGUERA SD">GLOBO TV ANHANGUERA SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/GAZ" xmltv_id="TV GAZETA FHD">TV GAZETA FHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/GAZ" xmltv_id="TV GAZETA SD">TV GAZETA SD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/POA" xmltv_id="GLOBO RBS PORTO ALEGRE SD#">GLOBO RBS PORTO ALEGRE SD#</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/POA" xmltv_id="GLOBO RBS TV POA FHD">GLOBO RBS TV POA FHD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/POA" xmltv_id="GLOBO RBS TV POA HD">GLOBO RBS TV POA HD</channel>
+   <channel update="i" site="meuguia.tv" site_id="canal/POA" xmltv_id="GLOBO RBS TV POA SD">GLOBO RBS TV POA SD</channel>
